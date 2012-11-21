@@ -1,4 +1,4 @@
 erlang-basics
 =============
 
-Erlang experiments
+Erlang experiments. Nothing really useful, just some stupid beginner code.
